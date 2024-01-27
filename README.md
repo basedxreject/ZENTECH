@@ -1,2 +1,2 @@
 # ZENTEK
-main website for zenteK
+main website for zentek
