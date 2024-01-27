@@ -1,2 +1,2 @@
-# ZENTECH
-main website for zentech
+# ZENTEK
+main website for zenteK
